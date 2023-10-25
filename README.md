@@ -15,7 +15,7 @@
 実装していく中で気づいたことや発見したことを些細なものまで共有していきたいと思います:
 
 baselineの有用性を確認するために、baselineを伴ったreinforce_learningを実装しました。
-その違いについてはreinforce_lr.pyとreinforce_with_baseline.pyの末尾に出力結果をご覧ください。
+その違いについてはreinforce_lr.pyとreinforce_with_baseline.pyの末尾,出力結果をご覧ください。
 
 ## プロジェクトの構成
 
